@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/WizzGameProject/Scene/demoScene.unity
+    guid: 25a3b9101bb021d4eb616c7efc8d0649
   m_configObjects: {}
